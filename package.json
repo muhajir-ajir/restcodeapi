@@ -1,0 +1,24 @@
+{
+  "name": "restcodeapi",
+  "version": "1.0.0",
+  "description": "rect api node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhajir-ajir/restcodeapi.git"
+  },
+  "keywords": [
+    "rest",
+    "node",
+    "js"
+  ],
+  "author": "ajir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhajir-ajir/restcodeapi/issues"
+  },
+  "homepage": "https://github.com/muhajir-ajir/restcodeapi#readme"
+}
